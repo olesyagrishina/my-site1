@@ -2,6 +2,6 @@
 
 МЕНЯ ЗОВУТ ОЛЕСЯ
 
-Я УЧУСЬ В [НЕТОЛОГИИ](https://netology.ru/dist/public/89097e645ef271b8c7f2.svg)
+Я УЧУСЬ В ![НЕТОЛОГИИ](https://netology.ru/dist/public/89097e645ef271b8c7f2.svg)
 
 Я СТАНУ ТЕСТИРОВЩИКОМ
